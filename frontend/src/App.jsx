@@ -198,7 +198,10 @@ export default function App() {
       const params = new URLSearchParams()
       if (q) params.set('q', q)
       if (skill) params.set('skill', skill)
-      const res = await fetch('/api/profiles?' + params.toString())
+       // const res = await fetch('/api/profiles?' + params.toString())
+      const API = import.meta.env.VITE_API_BASE || '/api' 
+      const res = await fetch(`${API}/profiles?${params.toString()}`)
+
       const data = await res.json()
       setProfiles(data)
     } catch (e) {
