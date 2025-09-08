@@ -1,0 +1,906 @@
+{
+  "profiles": [
+    {
+      "name": "Vivaan Test2",
+      "email": "vivaan@example.com",
+      "education": [
+        {
+          "degree": "MCA",
+          "institute": "LPU",
+          "year": "2026"
+        }
+      ],
+      "links": {
+        "github": "https://github.com",
+        "linkedin": "https://linkedin.com",
+        "portfolio": "https://example.com"
+      },
+      "skills": [
+        "Spring Boot",
+        "SQL",
+        "Kubernetes",
+        "JavaScript",
+        "Docker"
+      ],
+      "projects": [
+        {
+          "title": "Project 2",
+          "description": "Demo project for UI testing",
+          "links": [
+            "https://example.com"
+          ],
+          "skills": [
+            "SQL",
+            "JavaScript"
+          ]
+        }
+      ],
+      "work": [
+        {
+          "company": "DemoCorp",
+          "role": "Engineer",
+          "start": "2022-01",
+          "end": "2024-06",
+          "details": "Worked on demos"
+        }
+      ]
+    },
+    {
+      "name": "Aditya Test3",
+      "email": "aditya@example.com",
+      "education": [
+        {
+          "degree": "MCA",
+          "institute": "LPU",
+          "year": "2026"
+        }
+      ],
+      "links": {
+        "github": "https://github.com",
+        "linkedin": "https://linkedin.com",
+        "portfolio": "https://example.com"
+      },
+      "skills": [
+        "Next.js",
+        "SQL",
+        "JavaScript",
+        "React",
+        "Spring Boot"
+      ],
+      "projects": [
+        {
+          "title": "Project 3",
+          "description": "Demo project for UI testing",
+          "links": [
+            "https://example.com"
+          ],
+          "skills": [
+            "Node.js",
+            "React"
+          ]
+        }
+      ],
+      "work": [
+        {
+          "company": "DemoCorp",
+          "role": "Engineer",
+          "start": "2022-01",
+          "end": "2024-06",
+          "details": "Worked on demos"
+        }
+      ]
+    },
+    {
+      "name": "Vihaan Test4",
+      "email": "vihaan@example.com",
+      "education": [
+        {
+          "degree": "MCA",
+          "institute": "LPU",
+          "year": "2026"
+        }
+      ],
+      "links": {
+        "github": "https://github.com",
+        "linkedin": "https://linkedin.com",
+        "portfolio": "https://example.com"
+      },
+      "skills": [
+        "AWS",
+        "SQL",
+        "Next.js",
+        "Power BI",
+        "Kubernetes"
+      ],
+      "projects": [
+        {
+          "title": "Project 4",
+          "description": "Demo project for UI testing",
+          "links": [
+            "https://example.com"
+          ],
+          "skills": [
+            "Python",
+            "JavaScript"
+          ]
+        }
+      ],
+      "work": [
+        {
+          "company": "DemoCorp",
+          "role": "Engineer",
+          "start": "2022-01",
+          "end": "2024-06",
+          "details": "Worked on demos"
+        }
+      ]
+    },
+    {
+      "name": "Arjun Test5",
+      "email": "arjun@example.com",
+      "education": [
+        {
+          "degree": "MCA",
+          "institute": "LPU",
+          "year": "2026"
+        }
+      ],
+      "links": {
+        "github": "https://github.com",
+        "linkedin": "https://linkedin.com",
+        "portfolio": "https://example.com"
+      },
+      "skills": [
+        "Python",
+        "JavaScript",
+        "Docker",
+        "SQL",
+        "Power BI"
+      ],
+      "projects": [
+        {
+          "title": "Project 5",
+          "description": "Demo project for UI testing",
+          "links": [
+            "https://example.com"
+          ],
+          "skills": [
+            "AWS",
+            "Node.js"
+          ]
+        }
+      ],
+      "work": [
+        {
+          "company": "DemoCorp",
+          "role": "Engineer",
+          "start": "2022-01",
+          "end": "2024-06",
+          "details": "Worked on demos"
+        }
+      ]
+    },
+    {
+      "name": "Sai Test6",
+      "email": "sai@example.com",
+      "education": [
+        {
+          "degree": "MCA",
+          "institute": "LPU",
+          "year": "2026"
+        }
+      ],
+      "links": {
+        "github": "https://github.com",
+        "linkedin": "https://linkedin.com",
+        "portfolio": "https://example.com"
+      },
+      "skills": [
+        "React",
+        "JavaScript",
+        "Power BI",
+        "Next.js",
+        "Docker"
+      ],
+      "projects": [
+        {
+          "title": "Project 6",
+          "description": "Demo project for UI testing",
+          "links": [
+            "https://example.com"
+          ],
+          "skills": [
+            "SQL",
+            "Node.js"
+          ]
+        }
+      ],
+      "work": [
+        {
+          "company": "DemoCorp",
+          "role": "Engineer",
+          "start": "2022-01",
+          "end": "2024-06",
+          "details": "Worked on demos"
+        }
+      ]
+    },
+    {
+      "name": "Reyansh Test7",
+      "email": "reyansh@example.com",
+      "education": [
+        {
+          "degree": "MCA",
+          "institute": "LPU",
+          "year": "2026"
+        }
+      ],
+      "links": {
+        "github": "https://github.com",
+        "linkedin": "https://linkedin.com",
+        "portfolio": "https://example.com"
+      },
+      "skills": [
+        "SQL",
+        "Node.js",
+        "React",
+        "Next.js",
+        "JavaScript"
+      ],
+      "projects": [
+        {
+          "title": "Project 7",
+          "description": "Demo project for UI testing",
+          "links": [
+            "https://example.com"
+          ],
+          "skills": [
+            "JavaScript",
+            "AWS"
+          ]
+        }
+      ],
+      "work": [
+        {
+          "company": "DemoCorp",
+          "role": "Engineer",
+          "start": "2022-01",
+          "end": "2024-06",
+          "details": "Worked on demos"
+        }
+      ]
+    },
+    {
+      "name": "Krishna Test8",
+      "email": "krishna@example.com",
+      "education": [
+        {
+          "degree": "MCA",
+          "institute": "LPU",
+          "year": "2026"
+        }
+      ],
+      "links": {
+        "github": "https://github.com",
+        "linkedin": "https://linkedin.com",
+        "portfolio": "https://example.com"
+      },
+      "skills": [
+        "React",
+        "Node.js",
+        "AWS",
+        "Next.js",
+        "Power BI"
+      ],
+      "projects": [
+        {
+          "title": "Project 8",
+          "description": "Demo project for UI testing",
+          "links": [
+            "https://example.com"
+          ],
+          "skills": [
+            "React",
+            "AWS"
+          ]
+        }
+      ],
+      "work": [
+        {
+          "company": "DemoCorp",
+          "role": "Engineer",
+          "start": "2022-01",
+          "end": "2024-06",
+          "details": "Worked on demos"
+        }
+      ]
+    },
+    {
+      "name": "Ishaan Test9",
+      "email": "ishaan@example.com",
+      "education": [
+        {
+          "degree": "MCA",
+          "institute": "LPU",
+          "year": "2026"
+        }
+      ],
+      "links": {
+        "github": "https://github.com",
+        "linkedin": "https://linkedin.com",
+        "portfolio": "https://example.com"
+      },
+      "skills": [
+        "AWS",
+        "Next.js",
+        "Spring Boot",
+        "SQL",
+        "Java"
+      ],
+      "projects": [
+        {
+          "title": "Project 9",
+          "description": "Demo project for UI testing",
+          "links": [
+            "https://example.com"
+          ],
+          "skills": [
+            "Node.js",
+            "SQL"
+          ]
+        }
+      ],
+      "work": [
+        {
+          "company": "DemoCorp",
+          "role": "Engineer",
+          "start": "2022-01",
+          "end": "2024-06",
+          "details": "Worked on demos"
+        }
+      ]
+    },
+    {
+      "name": "Rohan Test10",
+      "email": "rohan@example.com",
+      "education": [
+        {
+          "degree": "MCA",
+          "institute": "LPU",
+          "year": "2026"
+        }
+      ],
+      "links": {
+        "github": "https://github.com",
+        "linkedin": "https://linkedin.com",
+        "portfolio": "https://example.com"
+      },
+      "skills": [
+        "AWS",
+        "Node.js",
+        "React",
+        "Spring Boot",
+        "Java"
+      ],
+      "projects": [
+        {
+          "title": "Project 10",
+          "description": "Demo project for UI testing",
+          "links": [
+            "https://example.com"
+          ],
+          "skills": [
+            "React",
+            "Node.js"
+          ]
+        }
+      ],
+      "work": [
+        {
+          "company": "DemoCorp",
+          "role": "Engineer",
+          "start": "2022-01",
+          "end": "2024-06",
+          "details": "Worked on demos"
+        }
+      ]
+    },
+    {
+      "name": "Ananya Test11",
+      "email": "ananya@example.com",
+      "education": [
+        {
+          "degree": "MCA",
+          "institute": "LPU",
+          "year": "2026"
+        }
+      ],
+      "links": {
+        "github": "https://github.com",
+        "linkedin": "https://linkedin.com",
+        "portfolio": "https://example.com"
+      },
+      "skills": [
+        "Power BI",
+        "JavaScript",
+        "Node.js",
+        "Python",
+        "React"
+      ],
+      "projects": [
+        {
+          "title": "Project 11",
+          "description": "Demo project for UI testing",
+          "links": [
+            "https://example.com"
+          ],
+          "skills": [
+            "AWS",
+            "Node.js"
+          ]
+        }
+      ],
+      "work": [
+        {
+          "company": "DemoCorp",
+          "role": "Engineer",
+          "start": "2022-01",
+          "end": "2024-06",
+          "details": "Worked on demos"
+        }
+      ]
+    },
+    {
+      "name": "Diya Test12",
+      "email": "diya@example.com",
+      "education": [
+        {
+          "degree": "MCA",
+          "institute": "LPU",
+          "year": "2026"
+        }
+      ],
+      "links": {
+        "github": "https://github.com",
+        "linkedin": "https://linkedin.com",
+        "portfolio": "https://example.com"
+      },
+      "skills": [
+        "JavaScript",
+        "Kubernetes",
+        "Java",
+        "Python",
+        "AWS"
+      ],
+      "projects": [
+        {
+          "title": "Project 12",
+          "description": "Demo project for UI testing",
+          "links": [
+            "https://example.com"
+          ],
+          "skills": [
+            "SQL",
+            "React"
+          ]
+        }
+      ],
+      "work": [
+        {
+          "company": "DemoCorp",
+          "role": "Engineer",
+          "start": "2022-01",
+          "end": "2024-06",
+          "details": "Worked on demos"
+        }
+      ]
+    },
+    {
+      "name": "Aadhya Test13",
+      "email": "aadhya@example.com",
+      "education": [
+        {
+          "degree": "MCA",
+          "institute": "LPU",
+          "year": "2026"
+        }
+      ],
+      "links": {
+        "github": "https://github.com",
+        "linkedin": "https://linkedin.com",
+        "portfolio": "https://example.com"
+      },
+      "skills": [
+        "React",
+        "Kubernetes",
+        "Power BI",
+        "Next.js",
+        "Python"
+      ],
+      "projects": [
+        {
+          "title": "Project 13",
+          "description": "Demo project for UI testing",
+          "links": [
+            "https://example.com"
+          ],
+          "skills": [
+            "SQL",
+            "Python"
+          ]
+        }
+      ],
+      "work": [
+        {
+          "company": "DemoCorp",
+          "role": "Engineer",
+          "start": "2022-01",
+          "end": "2024-06",
+          "details": "Worked on demos"
+        }
+      ]
+    },
+    {
+      "name": "Myra Test14",
+      "email": "myra@example.com",
+      "education": [
+        {
+          "degree": "MCA",
+          "institute": "LPU",
+          "year": "2026"
+        }
+      ],
+      "links": {
+        "github": "https://github.com",
+        "linkedin": "https://linkedin.com",
+        "portfolio": "https://example.com"
+      },
+      "skills": [
+        "Spring Boot",
+        "Kubernetes",
+        "React",
+        "Node.js",
+        "Python"
+      ],
+      "projects": [
+        {
+          "title": "Project 14",
+          "description": "Demo project for UI testing",
+          "links": [
+            "https://example.com"
+          ],
+          "skills": [
+            "AWS",
+            "SQL"
+          ]
+        }
+      ],
+      "work": [
+        {
+          "company": "DemoCorp",
+          "role": "Engineer",
+          "start": "2022-01",
+          "end": "2024-06",
+          "details": "Worked on demos"
+        }
+      ]
+    },
+    {
+      "name": "Ira Test15",
+      "email": "ira@example.com",
+      "education": [
+        {
+          "degree": "MCA",
+          "institute": "LPU",
+          "year": "2026"
+        }
+      ],
+      "links": {
+        "github": "https://github.com",
+        "linkedin": "https://linkedin.com",
+        "portfolio": "https://example.com"
+      },
+      "skills": [
+        "Java",
+        "JavaScript",
+        "Power BI",
+        "Next.js",
+        "Docker"
+      ],
+      "projects": [
+        {
+          "title": "Project 15",
+          "description": "Demo project for UI testing",
+          "links": [
+            "https://example.com"
+          ],
+          "skills": [
+            "React",
+            "Python"
+          ]
+        }
+      ],
+      "work": [
+        {
+          "company": "DemoCorp",
+          "role": "Engineer",
+          "start": "2022-01",
+          "end": "2024-06",
+          "details": "Worked on demos"
+        }
+      ]
+    },
+    {
+      "name": "Aarohi Test16",
+      "email": "aarohi@example.com",
+      "education": [
+        {
+          "degree": "MCA",
+          "institute": "LPU",
+          "year": "2026"
+        }
+      ],
+      "links": {
+        "github": "https://github.com",
+        "linkedin": "https://linkedin.com",
+        "portfolio": "https://example.com"
+      },
+      "skills": [
+        "Python",
+        "Next.js",
+        "React",
+        "Java",
+        "Kubernetes"
+      ],
+      "projects": [
+        {
+          "title": "Project 16",
+          "description": "Demo project for UI testing",
+          "links": [
+            "https://example.com"
+          ],
+          "skills": [
+            "Node.js",
+            "SQL"
+          ]
+        }
+      ],
+      "work": [
+        {
+          "company": "DemoCorp",
+          "role": "Engineer",
+          "start": "2022-01",
+          "end": "2024-06",
+          "details": "Worked on demos"
+        }
+      ]
+    },
+    {
+      "name": "Anika Test17",
+      "email": "anika@example.com",
+      "education": [
+        {
+          "degree": "MCA",
+          "institute": "LPU",
+          "year": "2026"
+        }
+      ],
+      "links": {
+        "github": "https://github.com",
+        "linkedin": "https://linkedin.com",
+        "portfolio": "https://example.com"
+      },
+      "skills": [
+        "AWS",
+        "Python",
+        "Next.js",
+        "JavaScript",
+        "Docker"
+      ],
+      "projects": [
+        {
+          "title": "Project 17",
+          "description": "Demo project for UI testing",
+          "links": [
+            "https://example.com"
+          ],
+          "skills": [
+            "React",
+            "SQL"
+          ]
+        }
+      ],
+      "work": [
+        {
+          "company": "DemoCorp",
+          "role": "Engineer",
+          "start": "2022-01",
+          "end": "2024-06",
+          "details": "Worked on demos"
+        }
+      ]
+    },
+    {
+      "name": "Saanvi Test18",
+      "email": "saanvi@example.com",
+      "education": [
+        {
+          "degree": "MCA",
+          "institute": "LPU",
+          "year": "2026"
+        }
+      ],
+      "links": {
+        "github": "https://github.com",
+        "linkedin": "https://linkedin.com",
+        "portfolio": "https://example.com"
+      },
+      "skills": [
+        "Python",
+        "Docker",
+        "Node.js",
+        "AWS",
+        "React"
+      ],
+      "projects": [
+        {
+          "title": "Project 18",
+          "description": "Demo project for UI testing",
+          "links": [
+            "https://example.com"
+          ],
+          "skills": [
+            "React",
+            "SQL"
+          ]
+        }
+      ],
+      "work": [
+        {
+          "company": "DemoCorp",
+          "role": "Engineer",
+          "start": "2022-01",
+          "end": "2024-06",
+          "details": "Worked on demos"
+        }
+      ]
+    },
+    {
+      "name": "Aanya Test19",
+      "email": "aanya@example.com",
+      "education": [
+        {
+          "degree": "MCA",
+          "institute": "LPU",
+          "year": "2026"
+        }
+      ],
+      "links": {
+        "github": "https://github.com",
+        "linkedin": "https://linkedin.com",
+        "portfolio": "https://example.com"
+      },
+      "skills": [
+        "Node.js",
+        "SQL",
+        "Docker",
+        "Power BI",
+        "AWS"
+      ],
+      "projects": [
+        {
+          "title": "Project 19",
+          "description": "Demo project for UI testing",
+          "links": [
+            "https://example.com"
+          ],
+          "skills": [
+            "Python",
+            "AWS"
+          ]
+        }
+      ],
+      "work": [
+        {
+          "company": "DemoCorp",
+          "role": "Engineer",
+          "start": "2022-01",
+          "end": "2024-06",
+          "details": "Worked on demos"
+        }
+      ]
+    },
+    {
+      "name": "Navya Test20",
+      "email": "navya@example.com",
+      "education": [
+        {
+          "degree": "MCA",
+          "institute": "LPU",
+          "year": "2026"
+        }
+      ],
+      "links": {
+        "github": "https://github.com/",
+        "linkedin": "https://linkedin.com",
+        "portfolio": "https://example.com"
+      },
+      "skills": [
+        "AWS",
+        "Java",
+        "JavaScript",
+        "Spring Boot",
+        "Power BI"
+      ],
+      "projects": [
+        {
+          "title": "Project 20",
+          "description": "Demo project for UI testing",
+          "links": [
+            "https://example.com"
+          ],
+          "skills": [
+            "JavaScript",
+            "AWS"
+          ]
+        }
+      ],
+      "work": [
+        {
+          "company": "DemoCorp",
+          "role": "Engineer",
+          "start": "2022-01",
+          "end": "2024-06",
+          "details": "Worked on demos"
+        }
+      ]
+    },
+     {
+      "name": "Shakeb Shamsi",
+      "email": "info.shakeb@gmail.com",
+      "education": [
+        {
+          "degree": "B.Tech",
+          "institute": "BEU",
+          "year": "2024"
+        }
+      ],
+      "links": {
+        "github": "https://github.com/shakebshamsi",
+        "linkedin": "https://linkedin.com/in/shakebshamsi",
+        "portfolio": "https://shakeb.onrender.com"
+      },
+      "skills": [
+        "React",
+        "SQL",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "JavaScript",
+        "Python"
+      ],
+      "projects": [
+        {
+          "title": "foodKart",
+          "description": "A Fullstack Food Delivery Web Application",
+          "links": [
+            "https://foodkart-nje9.onrender.com"
+          ],
+          "skills": [
+            "JavaScript",
+            "MERN"
+          ]
+        }
+      ],
+      "work": [
+        {
+          "company": "devPedia",
+          "role": "Software Developer",
+          "start": "2024-08",
+          "end": "Present",
+          "details": "Worked on ecommerce projects using React and Node.js"
+        }
+      ]
+    }
+  ]
+}
